@@ -1,0 +1,24 @@
+{
+  "name": "Moshify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anuaroslan/anuarfy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/anuaroslan/anuarfy/issues"
+  },
+  "homepage": "https://github.com/anuaroslan/anuarfy#readme",
+  "description": ""
+}
